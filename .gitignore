@@ -1,0 +1,46 @@
+# 编译输出
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/Makefile
+/cmake_install.cmake
+/*.o
+/*.obj
+/*.so
+/*.a
+/*.exe
+/*.out
+
+.vscode
+
+# 日志和临时文件
+*.log
+*.tmp
+*.swp
+*~
+
+dataset_caida
+.zip
+
+# 忽略所有用户生成的可执行文件
+experiment_full_adaptive
+experiment_semi_adaptive
+experiment_latency
+experiment_latency_v2
+experiment_telescoping
+experiment_vulNegKeyRatio
+experiment_weightedFPR
+experiment
+
+CMakeLists copy.txt
+experiment_latency_v2.cpp
+experiment_latency.cpp
+experiment_telescoping.cpp
+experiment_vulNegKeyRatio.cpp
+experiment_weightedFPR.cpp
+experiment.cpp
+
+/SSCF
+
+
+
