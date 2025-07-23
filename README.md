@@ -16,7 +16,7 @@ This repository contains all the source code for RF (Reconfirm Filter) along wit
 
 ## Dataset
 
-The dataset used in our experiments is available at:  
+The partial CAIDA dataset used in our experiments is available at:
 **[https://github.com/an0nym0us-lab/RF/releases/tag/v1.0](https://github.com/an0nym0us-lab/RF/releases/tag/v1.0)**
 
 > **Note:**  
